@@ -7,7 +7,6 @@ This repository contains data scraped from the Abjad website, featuring book inf
 - `books_data.csv` - The dataset saved in CSV format.
 - `books_data.xlsx` - The dataset saved in XLSX format.
 - `scraper.py` - The Python script used for scraping the data.
-- `requirements.txt` - List of dependencies required to run the scraper.
 
 ## Data Description
 
@@ -29,11 +28,6 @@ The dataset includes the following columns:
    ```bash
    git clone https://github.com/yourusername/abjad-books-data.git
    cd abjad-books-data
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
